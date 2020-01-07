@@ -8,6 +8,6 @@
  
  Second excel fet2.xlsx has got only the prices from airtickets.
  
- In all Neural Networks i learn neurals with first 701 data of 5 characteristics of first excel with Target of Second excel of 701 prices
+ In all Neural Networks is trained  with first 701 data of 5 characteristics of first excel with Target of Second excel of 701 prices
  and my test is 95 data . The accuracy of my models is nearly close to 75-85% in Real time Prices of https://www.airtickets.gr/ 
  
